@@ -1,0 +1,51 @@
+
+
+
+body {
+    background-image: url('background.webp');
+    background-repeat: no-repeat;
+    background-size:cover;
+    /* background-position: center center; */
+  }
+  
+  
+  .chart-section {
+    height: 400px;
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    margin-right: 10px;
+    display: inline-block;
+    line-height: 3;
+    /* margin-top: 50px; */
+  }
+  
+  .chart-section:last-child {
+    margin-right: 0;
+  }
+  
+  .chart-section h2 {
+    margin-top: 0;
+  }
+  
+  .chart-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .chart-section li {
+    margin-bottom: 10px;
+  }
+  
+  .chart-section li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .chart-section li a:hover {
+    color: blue;
+  }
+  
