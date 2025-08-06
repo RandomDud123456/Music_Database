@@ -1,4 +1,4 @@
-# Music_Database
+# Music Database
 
 ## Description
 
